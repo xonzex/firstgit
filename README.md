@@ -1,6 +1,2 @@
-#include <studio.h>
-
-int main{}{
-    print["Hello World"];
-    return 0;
-}
+Nama = Ruben Orlando Nursalim
+Nim = 2902566080
